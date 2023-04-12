@@ -3,6 +3,6 @@
 [x] git status
 [x] git log --oneline
 [x] git reset
-[ ] git checkout -b <nome-da-branch> / git checkout <nome-da-branch>
+[x] git checkout -b <nome-da-branch> / git checkout <nome-da-branch>
 [ ] git branch -d <nome-da-branch>
 [ ] git pull origin <nome-da-branch>
