@@ -1,7 +1,8 @@
 # Comandos Git
 
-[ ] git status
-[ ] git reset
+[x] git status
+[x] git log --oneline
+[x] git reset
 [ ] git checkout -b <nome-da-branch> / git checkout <nome-da-branch>
-[ ] git branch -b <nome-da-branch>
-<!-- [ ] git pull origin <nome-da-branch> -->
+[ ] git branch -d <nome-da-branch>
+[ ] git pull origin <nome-da-branch>
